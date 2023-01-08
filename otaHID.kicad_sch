@@ -1917,7 +1917,7 @@
     (property "Value" "1k" (id 1) (at 222.25 50.8 90)
       (effects (font (size 1.016 1.016)))
     )
-    (property "Footprint" "otaHID:1608Metric" (id 2) (at 222.25 50.8 0)
+    (property "Footprint" "otaHID:1005Metric" (id 2) (at 222.25 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 222.25 50.8 0)
@@ -2117,7 +2117,7 @@
     (property "Value" "1uF" (id 1) (at 93.345 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "otaHID:1608Metric" (id 2) (at 91.44 91.44 0)
+    (property "Footprint" "otaHID:1005Metric" (id 2) (at 91.44 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 91.44 91.44 0)
@@ -2227,7 +2227,7 @@
     (property "Value" "470" (id 1) (at 210.82 73.66 90)
       (effects (font (size 1.016 1.016)))
     )
-    (property "Footprint" "otaHID:1608Metric" (id 2) (at 210.82 73.66 0)
+    (property "Footprint" "otaHID:1005Metric" (id 2) (at 210.82 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 73.66 0)
@@ -2262,7 +2262,7 @@
     (property "Value" "1uF" (id 1) (at 64.135 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "otaHID:1608Metric" (id 2) (at 66.04 91.44 0)
+    (property "Footprint" "otaHID:1005Metric" (id 2) (at 66.04 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 66.04 91.44 0)
@@ -2477,10 +2477,10 @@
       (reference "#PWR018") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/d499b390-4b94-487e-8623-92901e75e504"
-      (reference "C1") (unit 1) (value "1uF") (footprint "otaHID:1608Metric")
+      (reference "C1") (unit 1) (value "1uF") (footprint "otaHID:1005Metric")
     )
     (path "/a4db60fc-1523-4e61-8459-c8b02fdf3d76"
-      (reference "C2") (unit 1) (value "1uF") (footprint "otaHID:1608Metric")
+      (reference "C2") (unit 1) (value "1uF") (footprint "otaHID:1005Metric")
     )
     (path "/ecc7aa79-03bd-4a5d-9770-720de9966d4d"
       (reference "D1") (unit 1) (value "LED") (footprint "otaHID:1608Metric")
@@ -2501,10 +2501,10 @@
       (reference "L1") (unit 1) (value "BLM18PG600SN1D") (footprint "otaHID:1608Metric")
     )
     (path "/4650ece2-e1f8-4b4f-8fa2-6a844fad8b1d"
-      (reference "R1") (unit 1) (value "1k") (footprint "otaHID:1608Metric")
+      (reference "R1") (unit 1) (value "1k") (footprint "otaHID:1005Metric")
     )
     (path "/ca33f7e4-ee7d-45b9-84d5-8203e17df579"
-      (reference "R2") (unit 1) (value "470") (footprint "otaHID:1608Metric")
+      (reference "R2") (unit 1) (value "470") (footprint "otaHID:1005Metric")
     )
     (path "/6a799451-a531-4b03-86b8-defa29791348"
       (reference "SW1") (unit 1) (value "TVAF06-A020B-R") (footprint "otaHID:SideSW_THAF01-NC-R")
